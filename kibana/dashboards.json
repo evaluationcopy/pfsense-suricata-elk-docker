@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "3cc16000-92a3-11e7-b4f8-6947ec97a76c",
+    "_type": "dashboard",
+    "_source": {
+      "title": "pfSense",
+      "hits": 0,
+      "description": "pfSense Dashboard",
+      "panelsJSON": "[{\"embeddableConfig\":{\"mapCenter\":[13.581920900545857,12.656250000000002],\"mapZoom\":1},\"gridData\":{\"h\":25,\"i\":\"1\",\"w\":20,\"x\":28,\"y\":0},\"id\":\"f636e740-92a2-11e7-b4f8-6947ec97a76c\",\"panelIndex\":\"1\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"gridData\":{\"h\":25,\"i\":\"2\",\"w\":16,\"x\":12,\"y\":0},\"id\":\"b3c31a50-92c5-11e7-87a2-7940ffb808f9\",\"panelIndex\":\"2\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{\"spy\":{\"mode\":{\"fill\":false,\"name\":null}},\"vis\":{\"defaultColors\":{\"0 - 200\":\"rgb(0,104,55)\",\"1000 - 1200\":\"rgb(234,88,57)\",\"1200 - 1400\":\"rgb(165,0,38)\",\"200 - 400\":\"rgb(76,176,93)\",\"400 - 600\":\"rgb(183,224,117)\",\"600 - 800\":\"rgb(255,255,190)\",\"800 - 1000\":\"rgb(253,191,111)\"}}},\"gridData\":{\"h\":25,\"i\":\"3\",\"w\":12,\"x\":0,\"y\":0},\"id\":\"33c9cd60-92c7-11e7-87a2-7940ffb808f9\",\"panelIndex\":\"3\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{\"vis\":{\"legendOpen\":false}},\"gridData\":{\"h\":25,\"i\":\"4\",\"w\":48,\"x\":0,\"y\":25},\"id\":\"ed689730-9379-11e7-851b-4be14ad14ed6\",\"panelIndex\":\"4\",\"type\":\"visualization\",\"version\":\"6.3.0\"}]",
+      "optionsJSON": "{\"darkTheme\":true,\"useMargins\":false}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[],\"highlightAll\":true,\"version\":true,\"query\":{\"language\":\"lucene\",\"query\":{\"match_all\":{}}}}"
+      }
+    }
+  },
+  {
+    "_id": "5db43ee0-7e2a-11e8-b267-4d1688b0bab4",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Suricata",
+      "hits": 0,
+      "description": "pfSense Dashboard",
+      "panelsJSON": "[{\"panelIndex\":\"7\",\"gridData\":{\"x\":25,\"y\":0,\"w\":23,\"h\":25,\"i\":\"7\"},\"embeddableConfig\":{\"mapCenter\":[37.782941450067156,8.68909996468574],\"mapZoom\":1},\"id\":\"fcdc1200-7e29-11e8-b267-4d1688b0bab4\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"10\",\"gridData\":{\"x\":8,\"y\":0,\"w\":17,\"h\":25,\"i\":\"10\"},\"embeddableConfig\":{},\"id\":\"df49d9e0-7e2c-11e8-b267-4d1688b0bab4\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"11\",\"gridData\":{\"x\":0,\"y\":25,\"w\":25,\"h\":22,\"i\":\"11\"},\"embeddableConfig\":{\"mapCenter\":[52.482780222078226,1.40625],\"mapZoom\":1},\"id\":\"135aae00-7e30-11e8-b267-4d1688b0bab4\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"12\",\"gridData\":{\"x\":25,\"y\":25,\"w\":23,\"h\":22,\"i\":\"12\"},\"embeddableConfig\":{},\"id\":\"e5b1e0d0-7e30-11e8-b267-4d1688b0bab4\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"13\",\"gridData\":{\"x\":0,\"y\":0,\"w\":8,\"h\":25,\"i\":\"13\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"7a16cea0-7e3d-11e8-a400-fb1b13f7ba25\",\"embeddableConfig\":{}}]",
+      "optionsJSON": "{\"darkTheme\":true,\"useMargins\":false}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"filter\":[],\"highlightAll\":true,\"version\":true,\"query\":{\"language\":\"lucene\",\"query\":{\"match_all\":{}}}}"
+      }
+    }
+  }
+]
