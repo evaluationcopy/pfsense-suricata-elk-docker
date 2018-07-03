@@ -11,7 +11,7 @@ The idea here is to use the plain docker images published by [Docker@Elastic](ht
 
 Install [Docker for Windows](https://docs.docker.com/docker-for-windows/install/).
 
-Download the [pfsense-suricata-elk-docker repo] (https://github.com/evaluationcopy/pfsense-suricata-elk-docker) contents.
+Download the [pfsense-suricata-elk-docker repo](https://github.com/evaluationcopy/pfsense-suricata-elk-docker) contents.
 
 Open a command prompt in the directory of the git repo.
 
