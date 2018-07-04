@@ -95,7 +95,7 @@ Suricata dashboard
 
 Suricata seems to log both the eve json and it's regular output into the syslog.
 
-Logstash has a parsing error, which I believe is related to the Suricata non-json logging.
+Logstash has a parsing error, which I believe is related to the Suricata non-json logging.  This doesn't stop it from logging, but future work could remove the error.
 
 Some numeric data in elasticsearch appears to be logged as a string type, such as dest_port.  Work can be done in the logstash configs to convert this to numeric to enable range queries in kibana.
 
